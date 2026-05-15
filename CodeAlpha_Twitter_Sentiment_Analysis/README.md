@@ -5,6 +5,10 @@ This project performs sentiment analysis on Twitter data using Python and Natura
 
 The project analyzes tweets and classifies them into Positive, Negative, or Neutral sentiments using the TextBlob library.
 
+## Dataset Source
+Twitter Sentiment Dataset from Kaggle:
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
 ## Technologies Used
 - Python
 - Pandas
